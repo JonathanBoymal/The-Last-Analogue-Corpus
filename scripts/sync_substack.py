@@ -3,7 +3,7 @@ import re
 import hashlib
 from pathlib import Path
 
-FEED_URL = "https://YOURNAME.substack.com/feed"
+FEED_URL = "https://TheLastAnalogue.substack.com/feed"
 OUTPUT_DIR = Path("essays")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
